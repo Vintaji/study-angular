@@ -1,0 +1,134 @@
+[
+    {
+        "orderColombo": {
+            "orderId": 303137,
+            "ecommerceOrderId": 74478143,
+            "sellerId": 55,
+            "cnpjColombo": "89848543000177",
+            "costProducts": 4598.9,
+            "costDiscount": 0,
+            "costInterestRateValue": 0,
+            "shippingId": "Braspress",
+            "shippingValue": 0,
+            "shippingType": "E",
+            "costTotalOrdered": 4598.9,
+            "included": "2022-07-29T14:20:24",
+            "observation": "Pedido 74478143: Tipo Entrega: Economica. Quem recebe: Indiferente ;",
+            "maximumDeliveryDays": 11,
+            "maximumDeliveryDate": "2022-08-15",
+            "paymentsForm": "CARD",
+            "status": {
+                "status": "PROCESSING",
+                "dateUpdated": "2022-07-29T14:27:01"
+            },
+            "payments": [
+                {
+                    "numberPayments": 1,
+                    "paymentsParcels": 10,
+                    "cardTotal": 4598.9,
+                    "parcels": [
+                        {
+                            "parcelNumber": 5,
+                            "expirationParcelDate": "2022-12-27",
+                            "parcelValue": null
+                        },
+                        {
+                            "parcelNumber": 4,
+                            "expirationParcelDate": "2022-11-28",
+                            "parcelValue": null
+                        },
+                        {
+                            "parcelNumber": 10,
+                            "expirationParcelDate": "2023-05-26",
+                            "parcelValue": null
+                        },
+                        {
+                            "parcelNumber": 7,
+                            "expirationParcelDate": "2023-02-27",
+                            "parcelValue": null
+                        },
+                        {
+                            "parcelNumber": 1,
+                            "expirationParcelDate": "2022-08-29",
+                            "parcelValue": null
+                        },
+                        {
+                            "parcelNumber": 6,
+                            "expirationParcelDate": "2023-01-26",
+                            "parcelValue": null
+                        },
+                        {
+                            "parcelNumber": 2,
+                            "expirationParcelDate": "2022-09-28",
+                            "parcelValue": null
+                        },
+                        {
+                            "parcelNumber": 9,
+                            "expirationParcelDate": "2023-04-26",
+                            "parcelValue": null
+                        },
+                        {
+                            "parcelNumber": 8,
+                            "expirationParcelDate": "2023-03-27",
+                            "parcelValue": null
+                        },
+                        {
+                            "parcelNumber": 3,
+                            "expirationParcelDate": "2022-10-28",
+                            "parcelValue": null
+                        }
+                    ]
+                }
+            ],
+            "customer": {
+                "name": "Frederico Almeida Gomes",
+                "typePerson": "PERSON",
+                "cpf_cnpj": "06355673695",
+                "stateRegistration": null,
+                "ddd": "32",
+                "phone": "984950464"
+            },
+            "shippingAddress": {
+                "postcode": 36052000,
+                "street": "RUA NOSSA SENHORA DO LIBANO",
+                "number": 245,
+                "neighborhood": "GRAJAU",
+                "complement": null,
+                "city": "JUIZ DE FORA",
+                "state": "MG"
+            },
+            "itemsOrder": [
+                {
+                    "skuSellerId": "1875",
+                    "quantity": 1,
+                    "unitaryValue": 699.9,
+                    "unitaryInterestRateValue": 0,
+                    "discount": 0,
+                    "totalValue": 699.9,
+                    "commissionPercentage": 12,
+                    "commissionAmount": 83.99,
+                    "productType": "PHYSICAL",
+                    "ean": "7898615986221"
+                },
+                {
+                    "skuSellerId": "1874",
+                    "quantity": 10,
+                    "unitaryValue": 389.9,
+                    "unitaryInterestRateValue": 0,
+                    "discount": 0,
+                    "totalValue": 3899,
+                    "commissionPercentage": 12,
+                    "commissionAmount": 467.88,
+                    "productType": "PHYSICAL",
+                    "ean": "7898615986214"
+                }
+            ]
+        },
+        "SLAs": {
+            "names": [],
+            "values": []
+        },
+        "suffix": "A",
+        "useSingleInstallment": false
+    }
+]
