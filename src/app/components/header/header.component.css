@@ -1,0 +1,10 @@
+.cabecalho {
+    display: flex;
+    min-height: 50px;
+    background-color: #3cc896;
+}
+
+.cabecalho img {
+    padding: 15px;
+    max-height: 38px;
+}
