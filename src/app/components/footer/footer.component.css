@@ -1,7 +1,7 @@
 .rodape {
     background-color: #3cc896;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     min-height: 50px;
     padding-left: 15px;
